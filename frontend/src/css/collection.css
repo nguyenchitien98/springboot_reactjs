@@ -1,0 +1,11 @@
+.selectbox {
+    border: none;
+    border-radius: 0px;
+    padding: 3px;
+}
+
+hr {
+    margin: 0px;
+    margin-top: 3px;
+    color: gray;
+}

@@ -1,0 +1,105 @@
+.about h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+.about .card .content {
+  padding-top: 100px;
+}
+
+.about .card .content p {
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.about .about-section .section-storis {
+  background-color: #0b2d43;
+  height: auto;
+  padding: 100px 0;
+}
+
+.about .about-section .section-storis .left-column {
+  padding-right: 20px;
+}
+
+.about .about-section .section-storis .left-column img {
+  width: 460px;
+  height: 460px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -webkit-box-shadow: -20px 20px #fff;
+          box-shadow: -20px 20px #fff;
+}
+
+.about .about-section .section-storis .right-column {
+  padding-left: 20px;
+}
+
+.about .about-section .section-storis .right-column .stories h1 {
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+  color: #0a8ab6;
+}
+
+.about .about-section .section-storis .right-column .stories-content {
+  width: 460px;
+  color: #f5f5f5;
+  font-size: larger;
+}
+
+.about .about-section .section-clothing {
+  padding: 80px;
+}
+
+.about .about-section .section-clothing .clothing-content .left-column {
+  background-color: #0b2d43;
+  height: 540px;
+  margin-right: 10px;
+}
+
+.about .about-section .section-clothing .clothing-content .left-column .clothing-body {
+  margin: 144px 200px;
+}
+
+.about .about-section .section-clothing .clothing-content .left-column .clothing-body .clothing-title {
+  padding-bottom: 30px;
+}
+
+.about .about-section .section-clothing .clothing-content .left-column .clothing-body .clothing-title h1 {
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+  color: #0a8ab6;
+}
+
+.about .about-section .section-clothing .clothing-content .left-column .clothing-body .clothing-content {
+  color: #f5f5f5;
+  font-size: larger;
+}
+
+.about .about-section .section-clothing .clothing-content .right-column {
+  padding-left: 10px;
+}
+
+.about .about-section .section-clothing .clothing-content .right-column img {
+  height: 540px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.about .about-section .banner {
+  padding-bottom: 50px;
+}
+
+.about .about-section .get-in-touch h1 {
+  padding-bottom: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: #0a8ab6;
+}
+
+.about .about-section .get-in-touch span {
+  height: 40px;
+  line-height: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+}
+/*# sourceMappingURL=about.css.map */

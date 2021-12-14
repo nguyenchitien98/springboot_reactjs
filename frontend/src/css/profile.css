@@ -1,0 +1,134 @@
+.profile {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f5f5f5;
+}
+
+.profile .container {
+  padding: 0 100px;
+  height: 100%;
+}
+
+.profile .container .profile-layout {
+  padding: 50px 0;
+}
+
+.profile .container .profile-layout .profile-menu .account {
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.profile .container .profile-layout .profile-menu .account .img-fluid {
+  height: 60px;
+  width: 60px;
+  border: 1px solid #e4e4e4;
+  border-radius: 50%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.profile .container .profile-layout .profile-menu .account .col-8 span {
+  height: 30px;
+  line-height: 30px;
+}
+
+.profile .container .profile-layout .profile-menu .sub-menu a {
+  text-decoration: none;
+}
+
+.profile .container .profile-layout .profile-menu .sub-menu a:hover span,
+.profile .container .profile-layout .profile-menu .sub-menu a:hover .icon-submenu {
+  color: #068cc1;
+}
+
+.profile .container .profile-layout .profile-menu .sub-menu a .icon-submenu {
+  font-size: x-large;
+}
+
+.profile .container .profile-layout .col-9 .card {
+  background-color: #fff;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .title {
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info {
+  padding-bottom: 100px;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info .label {
+  color: #777777;
+  text-align: right;
+  font-size: 14px;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info input {
+  font-size: 16px;
+  padding-left: 10px;
+  width: 100%;
+  height: 38px;
+  line-height: 38px;
+  border: 1px solid #e4e4e4;
+  border-radius: 2px;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info span {
+  font-size: 16px;
+  height: 38px;
+  line-height: 38px;
+  padding-left: 10px;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info .save-btn {
+  background-color: #068cc1;
+  padding: 10px;
+  border-radius: 2px;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info .save-btn .btn {
+  color: #f5f5f5;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info .forget-btn {
+  color: #777777;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info .forget-btn:hover {
+  color: #068cc1;
+  -webkit-text-decoration: dashed;
+          text-decoration: dashed;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info .left-content {
+  padding-right: 30px;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info .right-content {
+  border-left: 1px solid #e4e4e4;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info .right-content .avatar img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 120px;
+  width: 120px;
+  border: 1px solid #e4e4e4;
+  border-radius: 50%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info .right-content .btn {
+  border: 1px solid #e4e4e4;
+}
+
+.profile .container .profile-layout .col-9 .card .px-4 .content-info .right-content input {
+  display: none;
+}
+/*# sourceMappingURL=profile.css.map */

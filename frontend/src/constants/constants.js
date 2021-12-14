@@ -1,0 +1,16 @@
+export const SET_PRODS = "SET_PRODS";
+export const SET_PROD_DETAIL = "SET_PROD_DETAIL";
+export const SET_CART = "SET_CART";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const UPDATE_CART = "UPDATE_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const SET_MYORDERS = "SET_MYORDER";
+export const SET_AUTH = "SET_AUTH";
+export const REMOVE_ORDER = "REMOVE_ORDER";
+
+export const SET_PRODUCTS = "SET_PRODUCTS";
+export const CHANGE_STATUS_PRODUCT = "CHANGE_STATUS_PRODUCT";
+export const SET_PRODUCT_DETAIL = "SET_PRODUCT_DETAIL";
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const UPDATE_PRODUCT = "UPDATE_PRODUCT";
+export const UPDATE_PROFILE = "UPDATE_PROFILE";

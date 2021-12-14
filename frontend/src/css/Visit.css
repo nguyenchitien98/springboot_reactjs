@@ -1,0 +1,10 @@
+.address a {
+  text-decoration: none;
+  color: #808080;
+}
+
+.address a:hover {
+  color: #302f2f;
+  border-left: #808080 3px solid;
+}
+/*# sourceMappingURL=Visit.css.map */

@@ -1,0 +1,18 @@
+package com.fpt.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class AuthorityDTO{
+
+	private Integer id;
+	
+	private Integer accountId;
+	
+	private Integer roleId;
+	
+}

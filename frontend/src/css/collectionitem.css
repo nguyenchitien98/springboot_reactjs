@@ -1,0 +1,38 @@
+.prod-card {
+    position: relative;
+    width: 100%;
+  }
+  
+  .prod-img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    width: 100%;
+    height:0;
+    transition: .2s ease;
+  }
+  
+  .prod-card:hover .overlay {
+    top: 0;
+    height: 100%;
+  }
+  
+  .btn-quickview {
+    white-space: nowrap; 
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    overflow: hidden;
+    bottom: 1%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+  }
